@@ -12,6 +12,8 @@ dependencies:
   firebase_auth: ^5.3.1
   cloud_firestore: ^5.4.4
   cupertino_icons: ^1.0.6
+  geolocator: ^10.1.0
+  url_launcher: ^6.2.0
 
 dev_dependencies:
   flutter_test:
